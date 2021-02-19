@@ -1,4 +1,5 @@
 # LUDO
-This is a LUDO GameBoard Design . 
+This is a LUDO GameBoard Design. 
 
-## Explaination yet to come...
+
+
